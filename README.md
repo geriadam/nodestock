@@ -1,4 +1,4 @@
-# OngkirWoy
+# NodeStock
 Check Stock Market using API iexcloud.io
 
 ## Screenshoot
